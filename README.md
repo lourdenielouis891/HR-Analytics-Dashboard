@@ -1,4 +1,5 @@
- 📊 HR Analytics Dashboard (Excel)
+## 📊 HR Analytics Dashboard (Excel)
+An interactive dashboard analyzing employee distribution, attrition, and workforce trends using Excel.
 
 ## 📌 Project Overview
 This project analyzes HR data to uncover workforce trends, employee attrition, and department performance. The goal is to provide insights that support better HR decision-making.
@@ -42,3 +43,11 @@ Source: Internal HR dataset (simulated for analysis purposes)
 - Data Visualization
 - Dashboard Creation
 - Business Insight Generation
+
+
+## 👤 Author
+**Lourdenie Louis**  
+Aspiring Data Analyst  
+
+🔗 LinkedIn:  www.linkedin.com/in/lourdenie-louis
+🔗 GitHub: https://github.com/lourdenielouis891
