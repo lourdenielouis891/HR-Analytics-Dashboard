@@ -13,6 +13,7 @@ This project analyzes HR data to uncover workforce trends, employee attrition, a
 
  📊 Dashboard Preview
 
+![Dashboard Screenshot](https://github.com/lourdenielouis891/HR-Analytics-Dashboard/blob/main/Screenshot%202026-05-03%20235632.png?raw=true)
 
 
  📈 Key Insights
